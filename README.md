@@ -18,7 +18,7 @@
 
 ## Description
 
-Click "Get Questions to display four trivia questions. Click on the question text to reveal the answer!
+Click "Get Questions!" to display four trivia questions. Click on the question text to reveal the answer!
 
 ## Setup/Installation Requirements
 
